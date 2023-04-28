@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammadtaufiksaputra
+- 👋 Hi, I’m @taufik
 - 👀 I’m interested in Front-end Developin'
 - 🌱 I’m currently learning about all aspect of technology
 - 💞️ I’m looking to collaborate on ...
